@@ -1,0 +1,18 @@
+{
+    "id": "zhilin-area",
+    "name": "zhilin-area",
+    "version": "1.0.0",
+    "description": "picker封装，动态级联，指定列数，指定列第一项数据",
+    "keywords": [
+        "picker",
+        "area",
+        "zhiin-area",
+        "级联选择"
+    ],
+    "dcloudext": {
+        "category": [
+            "前端组件",
+            "通用组件"
+        ]
+    }
+}

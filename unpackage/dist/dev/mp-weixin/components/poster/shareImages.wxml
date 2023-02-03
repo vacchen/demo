@@ -1,0 +1,1 @@
+<view class="share-canvas data-v-7bccab70"><canvas style="{{'width:'+(canvasWidth+'rpx')+';'+('height:'+(canvasHeight+'rpx')+';')}}" canvas-id="{{canvasID}}" class="data-v-7bccab70"></canvas><block wx:if="{{qrCode==''}}"><view class="data-v-7bccab70"><q-r-code vue-id="046d78d4-1" data-ref="qrcode" class="data-v-7bccab70 vue-ref" bind:__l="__l"></q-r-code></view></block></view>

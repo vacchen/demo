@@ -1,0 +1,9 @@
+.poster .button.data-v-392f5254 {
+  position: absolute;
+  bottom: 100rpx;
+}
+.poster .submit.data-v-392f5254 {
+  position: absolute;
+  bottom: 0rpx;
+}
+

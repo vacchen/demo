@@ -1,0 +1,53 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+.content {
+  padding: 20px 10px;
+  box-sizing: border-box;
+}
+.cart-box {
+  position: fixed;
+  z-index: 10;
+  right: 40rpx;
+  bottom: 40rpx;
+}
+.u-flex {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.u-flex-1 {
+  flex: 1;
+}
+uni-image {
+  width: 55px;
+  height: 55px;
+}
+.u-font-30 {
+  color: #909399;
+  font-size: 16px;
+}
+.uni-button {
+  line-height: 23px;
+  height: 23px;
+  width: 35px;
+  font-size: 13px;
+  padding: 0;
+  color: #fff;
+  background-color: #007aff !important;
+  border-radius: 5px;
+  cursor: pointer;
+  position: relative;
+  box-sizing: border-box;
+  text-align: center;
+  margin: 0;
+}
+.uniui-plusempty {
+  color: #fff !important;
+}
+.u-row-between {
+  display: flex;
+  justify-content: space-between;
+}
+
